@@ -14,8 +14,45 @@ A couple of months from now (August 2022), I shall be completing Code Institute'
 My goal as a budding full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
 
 **Update:** From July 2022, I will start a two to three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer as they develop an Application for a client in the Commodities industry.
+
+## CONTACT ME
+<a href="https://www.linkedin.com/in/joy-araneta-zadan/">
+  <img
+    alt="Linkedin" target="_blank" rel="noopener noreferrer"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+## MY TECH STACK
+🌱 I’m continuing to learn ... 
+
+<p dir="auto">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+
+<img alt="JavaScript" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **JoyZadan/JoyZadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - I know:
