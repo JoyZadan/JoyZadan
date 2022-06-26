@@ -1,4 +1,5 @@
-![I love this pic]()
+(![github-profile](https://user-images.githubusercontent.com/91944321/175814792-a4b6332f-bee6-4180-bb70-f639baf8df72.png)
+
 
 # JOY ZADAN
 ## Junior Full Stack Software Developer 
