@@ -24,37 +24,54 @@ My goal as a budding full stack developer is to join a team of established devel
 </a>
 
 ## MY TECH STACK
-👌 I have built projects using ...
-HTML5, CSS, JavaScript, Python, Flask, SQLALchemy, Jinja, Postgres, MongoDB, Heroku and Cloudinary API
+👌 **I have built projects using ...**
 <p dir="auto">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://camo.githubusercontent.com/934dbb9355cbb7b8d5cbf77cccd7f94c8e8e4ba695668b6a57e8d59020a4ec31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a696e6a612532302d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a696e6a61266c6f676f436f6c6f723d423431373137" alt="Jinja" data-canonical-src="https://img.shields.io/badge/Jinja%20-%23000000.svg?&amp;style=for-the-badge&amp;logo=Jinja&amp;logoColor=B41717" style="max-width: 100%;">
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c839570bc71901106b11b8411d9277a6a8356a9431e4a16d6c26db82caab7d62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>  
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="Postgres" data-canonical-src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
-  
-   </p>
+  <img alt="Jinja" src="https://img.shields.io/badge/JINJA-%23B41717?style=for-the-badge&logo=jinja" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Materialize" src="https://img.shields.io/badge/Materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
+  <img alt="Cloudinary API" src="https://img.shields.io/badge/Cloudinary-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe-photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe-illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge" />
+  <img alt="Vectary 3D" src="https://img.shields.io/badge/vectary-3d-000000?logo=vectary&logoColor=white&style=for-the-badge" />
+ </p>
 
-🌱 I’m continuing to learn ... 
+🌱 **I’m continuing to learn ...**
 
 <p dir="auto">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img alt="Jinja" src="https://img.shields.io/badge/JINJA-%23B41717?style=for-the-badge&logo=jinja" />
+</p>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
+👩‍💻 **I’m currently learning ...**
 
+<p dir="auto">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+</p>
+
+👩‍💻 **During my internship, I will start to learn ...**
+
+<p dir="auto">
+  <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 </p>
 
 
+## Stats
 
 
-
-
-
-
-
+![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyzadan&theme=dark&show_icons=true)
 
 
 
