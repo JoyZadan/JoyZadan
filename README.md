@@ -73,12 +73,7 @@ My goal as a budding full stack developer is to join a team of established devel
 
 ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyzadan&theme=dark&show_icons=true)
 
-
-
-
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
 
 <!--
