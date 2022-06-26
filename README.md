@@ -13,7 +13,7 @@ A couple of months from now (August 2022), I shall be completing Code Institute'
 
 My goal as a budding full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
 
-**Update:** From July 2022, I will start a two to three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer as they develop an Application for a client in the Commodities industry.
+**Update:** From July 2022, I will start a two to three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry.
 
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/joy-araneta-zadan/">
