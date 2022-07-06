@@ -11,7 +11,7 @@ I'm an ex-b2b sales pro who's discovered a love for coding. I'm passionate about
 
 A couple of months from now (August 2022), I shall be completing Code Institute's Level 5 Diploma in Web Application Development (full stack software development). I know HTML, CSS, JavaScript and Python and am continuously practicing and learning to further my abilities to code in these languages. 
 
-My goal as a budding full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
+My goal as a junior full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
 
 **Update:** From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry.
 
@@ -85,8 +85,6 @@ My goal as a budding full stack developer is to join a team of established devel
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
 
-
-
 ## Stats
 
 ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyzadan&theme=dark&show_icons=true)
@@ -95,7 +93,7 @@ My goal as a budding full stack developer is to join a team of established devel
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
-## Credits
+## Credit
 <ul>
   <li><a href="https://shields.io/">Shields.io</a> for the badges
   <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> for the GitHub stats  
@@ -103,6 +101,19 @@ My goal as a budding full stack developer is to join a team of established devel
 </ul>
 
 <!--
+
+## PERSONAL PROJECTS:  Reinforcing my knowledge of Python
+
+## PERSONAL PROJECTS:  Reinforcing my knowledge of JavaScript
+
+## PERSONAL PROJECTS: Test Driven Development/ JEST
+
+## PERSONAL PROJECTS: Learning PHP
+
+## PERSONAL PROJECTS: Learning Flutter/Dart
+
+## PERSONAL PROJECTS: Learning React
+
 **JoyZadan/JoyZadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
