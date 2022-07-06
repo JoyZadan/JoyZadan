@@ -68,6 +68,21 @@ My goal as a budding full stack developer is to join a team of established devel
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 </p>
 
+---
+## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
+
+| # | Project Title | Description | Languages & Technologies Used | Grade |
+| :--- | :--- | :--- | :--- | :--- |
+| MS1 | [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) | Train in XR is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. | HTML5, CSS | Distinction | 
+| MS2 | [Trekkies Games](https://github.com/JoyZadan/star-trek-voyager) | Trekkies Games is a quiz and Star Trek quote generator application with an option to share your favourite quote on Twitter.  | HTML5, CSS, JavaScript | Distinction | 
+| MS3 | [Paleo Recipes](https://github.com/JoyZadan/paleo-recipes) | Paleo Recipes is a recipe sharing and management Application and is a hybrid database project. User Authentication is handled using relational-backed database (PostgreSQL using Flask+SQLAlchemy). Standard CRUD data manipulation is handled using a nonrelational-backed database (MongoDB using Flask+PyMongo).  | Python, HTML5, CSS, JavaScript *plus* Flask+SQLAlchemy, Flask+PyMongo, Bootstrap 5, Cloudinary API, Postgres, MongoDB and Heroku | TBA | 
+
+## HACKATHON PROJECTS - Organised by Code Institute and Other Participating Organizations
+| Date, Theme & Organisers | Hackathon Project Title | Description | Languages & Technologies Used | Result |
+| :--- | :--- | :--- | :--- | :--- |
+| May 2022, Getting Connected Hackathon organised by Code Institute and Soda Social | [Reach Out](https://github.com/JoyZadan/team-5-may-2022) | [Reach Out](https://team5-reachout.herokuapp.com/) is a project designed with the hopes of giving confidence to people who are struggling with a difficult topics of conversation by starting that conversation with someone important to them anonymously. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 5, Heroku | ![Code Institute - May 2022 Hackathon Participant - 2022-05-25](https://user-images.githubusercontent.com/91944321/177546434-10ff5d4e-fd68-49b0-827b-4e4ac7bbf1d0.png)
+)
+
 
 ## Stats
 
