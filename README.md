@@ -80,8 +80,9 @@ My goal as a budding full stack developer is to join a team of established devel
 ## HACKATHON PROJECTS - Organised by Code Institute and Other Participating Organizations
 | Date, Theme & Organisers | Hackathon Project Title | Description | Languages & Technologies Used | Result |
 | :--- | :--- | :--- | :--- | :--- |
-| May 2022, Getting Connected Hackathon organised by Code Institute and Soda Social | [Reach Out](https://github.com/JoyZadan/team-5-may-2022) | [Reach Out](https://team5-reachout.herokuapp.com/) is a project designed with the hopes of giving confidence to people who are struggling with a difficult topics of conversation by starting that conversation with someone important to them anonymously. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 5, Heroku | ![Code Institute - May 2022 Hackathon Participant - 2022-05-25](https://user-images.githubusercontent.com/91944321/177546434-10ff5d4e-fd68-49b0-827b-4e4ac7bbf1d0.png)
-)
+| May 2022, Getting Connected Hackathon organised by Code Institute and Soda Social | [Reach Out](https://github.com/JoyZadan/team-5-may-2022) | [Reach Out](https://team5-reachout.herokuapp.com/) is a project designed with the hopes of giving confidence to people who are struggling with a difficult topics of conversation by starting that conversation with someone important to them anonymously. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 5, Heroku | ![Code Institute - May 2022 Hackathon Participant - 2022-05-25](https://user-images.githubusercontent.com/91944321/177546434-10ff5d4e-fd68-49b0-827b-4e4ac7bbf1d0.png) |
+| April 2022, Earth Day 2022 Hackathon organised by Code Institute | [Earthlings](https://github.com/JoyZadan/Earthlings) | [Earthlings](https://earthlings-hackathon.herokuapp.com/) is a project for the Earth Day 2022 hackathon organised by Code Institute. This site is built to serve as a go-to place for tips, ideas and information on how to help save planet Earth. | Python, HTML5, CSS, JavaScript, Flask, Flask-PyMongo, dnspython, Jinja, Bootstrap 5, MongoDB, Heroku | ![Code Institute - April 2022 Hackathon 3rd Place - 2022-04-27](https://user-images.githubusercontent.com/91944321/177547814-5da9583b-ec11-4140-bc9d-6abee5a03a22.png) |
+
 
 
 ## Stats
