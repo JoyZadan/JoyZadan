@@ -71,22 +71,23 @@ My goal as a budding full stack developer is to join a team of established devel
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 
-| # | Project Title | Description | Languages & Technologies Used | Grade |
+| Project No. | Project Title | Description | Languages & Technologies Used | Grade |
 | :--- | :--- | :--- | :--- | :--- |
-| MS1 | [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) | Train in XR is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. | HTML5, CSS | Distinction | 
-| MS2 | [Trekkies Games](https://github.com/JoyZadan/star-trek-voyager) | Trekkies Games is a quiz and Star Trek quote generator application with an option to share your favourite quote on Twitter.  | HTML5, CSS, JavaScript | Distinction | 
-| MS3 | [Paleo Recipes](https://github.com/JoyZadan/paleo-recipes) | Paleo Recipes is a recipe sharing and management Application and is a hybrid database project. User Authentication is handled using relational-backed database (PostgreSQL using Flask+SQLAlchemy). Standard CRUD data manipulation is handled using a nonrelational-backed database (MongoDB using Flask+PyMongo).  | Python, HTML5, CSS, JavaScript *plus* Flask+SQLAlchemy, Flask+PyMongo, Bootstrap 5, Cloudinary API, Postgres, MongoDB and Heroku | TBA | 
+| MS1 | **Train in XR** ![txr-screenshots](https://user-images.githubusercontent.com/91944321/177549021-56a550d9-29bd-444d-bc5e-d4cef9163361.png) | [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
+| MS2 | **Trekkies Games** ![trekkies-responsive](https://user-images.githubusercontent.com/91944321/177550343-2382f49d-4fed-40d0-9360-f94d40e2ea29.png) | [Trekkies Games](https://github.com/JoyZadan/star-trek-voyager) is a quiz and Star Trek quote generator application with an option to share your favourite quote on Twitter.  | HTML5, CSS, JavaScript | Distinction | 
+| MS3 | **Paleo Recipes** ![paleo-recipes](https://user-images.githubusercontent.com/91944321/177551066-ad891f58-9688-43a0-a16a-bc763dd819dc.png) | [Paleo Recipes](https://github.com/JoyZadan/paleo-recipes) is a recipe sharing and management Application and is a hybrid database project. User Authentication is handled using relational-backed database (PostgreSQL using Flask+SQLAlchemy). Standard CRUD data manipulation is handled using a nonrelational-backed database (MongoDB using Flask+PyMongo).  | Python, HTML5, CSS, JavaScript *plus* Flask+SQLAlchemy, Flask+PyMongo, Bootstrap 5, Cloudinary API, Postgres, MongoDB and Heroku | TBA | 
 
 ## HACKATHON PROJECTS - Organised by Code Institute and Other Participating Organizations
 | Date, Theme & Organisers | Hackathon Project Title | Description | Languages & Technologies Used | Result |
 | :--- | :--- | :--- | :--- | :--- |
 | May 2022, Getting Connected Hackathon organised by Code Institute and Soda Social | [Reach Out](https://github.com/JoyZadan/team-5-may-2022) | [Reach Out](https://team5-reachout.herokuapp.com/) is a project designed with the hopes of giving confidence to people who are struggling with a difficult topics of conversation by starting that conversation with someone important to them anonymously. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 5, Heroku | ![Code Institute - May 2022 Hackathon Participant - 2022-05-25](https://user-images.githubusercontent.com/91944321/177546434-10ff5d4e-fd68-49b0-827b-4e4ac7bbf1d0.png) |
 | April 2022, Earth Day 2022 Hackathon organised by Code Institute | [Earthlings](https://github.com/JoyZadan/Earthlings) | [Earthlings](https://earthlings-hackathon.herokuapp.com/) is a project for the Earth Day 2022 hackathon organised by Code Institute. This site is built to serve as a go-to place for tips, ideas and information on how to help save planet Earth. | Python, HTML5, CSS, JavaScript, Flask, Flask-PyMongo, dnspython, Jinja, Bootstrap 5, MongoDB, Heroku | ![Code Institute - April 2022 Hackathon 3rd Place - 2022-04-27](https://user-images.githubusercontent.com/91944321/177547814-5da9583b-ec11-4140-bc9d-6abee5a03a22.png) |
+| January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
+
 
 
 
 ## Stats
-
 
 ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyzadan&theme=dark&show_icons=true)
 
@@ -94,6 +95,12 @@ My goal as a budding full stack developer is to join a team of established devel
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
+## Credits
+<ul>
+  <li><a href="https://shields.io/">Shields.io</a> for the badges
+  <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> for the GitHub stats  
+  <li><a href="https://github.com/kera-cudmore">Kera Cudmore</a> and <a href="https://github.com/alexandergrib">Alexander Grib</a> for the GitHub profile inspiration</li>
+</ul>
 
 <!--
 **JoyZadan/JoyZadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
