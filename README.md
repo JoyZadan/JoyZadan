@@ -69,6 +69,7 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img alt="Material Design" src="https://img.shields.io/badge/material%20design-212121?logo=material%20design&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
   <img alt="Atlassian Jira" src="https://img.shields.io/badge/atlassian%20jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
