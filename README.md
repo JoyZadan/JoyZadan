@@ -7,9 +7,7 @@
 
 Hi and thanks for visiting!
 
-I'm an ex-b2b sales pro who's discovered a love for coding. I'm passionate about continuously learning new languages and coding methods and equally dedicated to deepening my knowledge of the languages I already know.
-
-A couple of months from now (August 2022), I shall be completing Code Institute's Level 5 Diploma in Web Application Development (full stack software development). I know HTML, CSS, JavaScript and Python and am continuously practicing and learning to further my abilities to code in these languages. 
+I'm an ex-b2b sales pro who's discovered a love for coding. I'm passionate about continuously learning new languages and coding methods and equally dedicated to deepening my knowledge of the languages I already know. I shall be completing Code Institute's Level 5 Diploma in Web Application Development (full stack software development) in September 2022. I know HTML, CSS, JavaScript and Python and am continuously practicing and learning to further my abilities to code in these languages. 
 
 My goal as a junior full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
 
@@ -38,9 +36,12 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Materialize" src="https://img.shields.io/badge/Materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
   <img alt="Cloudinary API" src="https://img.shields.io/badge/Cloudinary-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe-photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe-illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge" />
-  <img alt="Vectary 3D" src="https://img.shields.io/badge/vectary-3d-000000?logo=vectary&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=whit" /> 
+  <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
+  <img alt="Vectary 3D" src="https://img.shields.io/badge/vectary%203d-7a13f7?logo=vectary&logoColor=white&style=for-the-badge" />
  </p>
 
 🌱 **I’m continuing to learn ...**
@@ -57,15 +58,20 @@ My goal as a junior full stack developer is to join a team of established develo
 <p dir="auto">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img alt="Android Emulator" src="https://img.shields.io/badge/android%20emulator-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
-👩‍💻 **During my internship, I will start to learn ...**
+👩‍💻 **For my internship, I am learning ...**
 
 <p dir="auto">
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+  <img alt="Atlassian Jira" src="https://img.shields.io/badge/atlassian%20jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
