@@ -97,7 +97,7 @@ My goal as a junior full stack developer is to join a team of established develo
 
 ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyzadan&theme=dark&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=joyzadan)](https://github.com/joyzadan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joyzadan)](https://github.com/joyzadan/github-profile-trophy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
