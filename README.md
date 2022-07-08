@@ -39,9 +39,12 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=whit" /> 
   <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> 
+  <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
+  <img alt="Lucidchart" src="https://img.shields.io/badge/lucidchart-f96b14?logo=lucidchart&logoColor=white&style=for-the-badge" />
+  <img alt="Lucidspark" src="https://img.shields.io/badge/lucidspark-ff3d3d?logo=lucidspark&logoColor=white&style=for-the-badge" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
+  
   <img alt="Vectary 3D" src="https://img.shields.io/badge/vectary%203d-7a13f7?logo=vectary&logoColor=white&style=for-the-badge" />
  </p>
 
