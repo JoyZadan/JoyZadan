@@ -65,6 +65,7 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img alt="Android Emulator" src="https://img.shields.io/badge/android%20emulator-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img alt="YAML" src="https://img.shields.io/badge/yaml-cc1018.svg?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-f58f1a.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
 👩‍💻 **For my internship, I am learning ...**
