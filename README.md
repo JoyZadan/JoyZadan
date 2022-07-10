@@ -110,6 +110,8 @@ My goal as a junior full stack developer is to join a team of established develo
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joyzadan&margin-w=60&no-frame=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=joyzadan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph")
+
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
 ## Credit
