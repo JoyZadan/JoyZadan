@@ -36,7 +36,9 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Materialize" src="https://img.shields.io/badge/materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
   <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=whit" /> 
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
+  
   <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> 
   <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
@@ -65,7 +67,7 @@ My goal as a junior full stack developer is to join a team of established develo
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img alt="Android Emulator" src="https://img.shields.io/badge/android%20emulator-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img alt="YAML" src="https://img.shields.io/badge/yaml-cc1018.svg?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-f58f1a.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 👩‍💻 **For my internship, I am learning ...**
