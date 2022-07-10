@@ -14,7 +14,7 @@ My goal as a junior full stack developer is to join a team of established develo
 **Update:** From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry.
 
 ## CONTACT ME
-<a href="https://www.linkedin.com/in/joy-araneta-zadan/">
+<a href="https://www.linkedin.com/in/joy-anareta-zadan/">
   <img
     alt="Linkedin" target="_blank" rel="noopener noreferrer"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
