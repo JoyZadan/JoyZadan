@@ -114,6 +114,11 @@ My goal as a junior full stack developer is to join a team of established develo
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 
+## Thanks for visiting! Before you go, here's some humor for you... 😉😁
+
+![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko') 
+
+
 ## Credit
 <ul>
   <li><a href="https://shields.io/">Shields.io</a> for the badges
