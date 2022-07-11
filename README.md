@@ -1,15 +1,15 @@
-![github-profile](https://user-images.githubusercontent.com/91944321/175814792-a4b6332f-bee6-4180-bb70-f639baf8df72.png)
+![github-banner](https://user-images.githubusercontent.com/91944321/178267614-0ed4455f-78e1-4084-96c7-3d0835042b82.png)
 
 
 # JOY ZADAN
-## Junior Full Stack Software Developer 
+## Full Stack Software Developer 
 ### About me 👋
 
 Hi and thanks for visiting!
 
 I'm an ex-b2b sales pro who's discovered a love for coding. I'm passionate about continuously learning new languages and coding methods and equally dedicated to deepening my knowledge of the languages I already know. I shall be completing Code Institute's Level 5 Diploma in Web Application Development (full stack software development) in September 2022. I know HTML, CSS, JavaScript and Python and am continuously practicing and learning to further my abilities to code in these languages. 
 
-My goal as a junior full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
+My goal as a full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
 
 **Update:** From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry.
 
