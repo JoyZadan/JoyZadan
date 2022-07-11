@@ -112,12 +112,9 @@ My goal as a junior full stack developer is to join a team of established develo
 
 ![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=joyzadan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph")
 
-![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
-
 ## Thanks for visiting! Before you go, here's some humor for you... 😉😁
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
-
 
 ## Credit
 <ul>
@@ -126,6 +123,7 @@ My goal as a junior full stack developer is to join a team of established develo
   <li><a href="https://github.com/kera-cudmore">Kera Cudmore</a> and <a href="https://github.com/alexandergrib">Alexander Grib</a> for the GitHub profile inspiration</li>
 </ul>
 
+![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 <!--
 
 ## PERSONAL PROJECTS:  Reinforcing my knowledge of Python
