@@ -74,6 +74,7 @@ My goal as a full stack developer is to join a team of established developers wh
 
 <p dir="auto">
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="Laravel" src="https://img.shields.io/badge/laravel-f72c1f?logo=laravel&logoColor=white&style=for-the-badge" />
   <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
   <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
   <img alt="Material Design" src="https://img.shields.io/badge/material%20design-212121?logo=material%20design&logoColor=white&style=for-the-badge" />
