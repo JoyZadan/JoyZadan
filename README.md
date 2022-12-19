@@ -110,8 +110,6 @@ My goal as a full stack developer is to join a team of established developers wh
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joyzadan&margin-w=60&no-frame=false)](https://github.com/joyzadan/github-profile-trophy)
 
-![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=joyzadan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph")
-
 ## Thanks for visiting! Before you go, here's some humor for you... 😉😁
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
