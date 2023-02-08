@@ -30,6 +30,7 @@ My goal as a full stack developer is to join a team of established developers wh
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img alt="Jinja" src="https://img.shields.io/badge/jinja-%23B41717?style=for-the-badge&logo=jinja" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
@@ -61,8 +62,7 @@ My goal as a full stack developer is to join a team of established developers wh
 
 👩‍💻 **I’m currently learning ...**
 
-<p dir="auto">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+<p dir="auto"> 
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img alt="Android Emulator" src="https://img.shields.io/badge/android%20emulator-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
