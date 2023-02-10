@@ -125,7 +125,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
 ---
-## POST FINAL PROJECT SUBMISSION
+## POST CODE INSTITUTE
 
 Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of #100DaysOfCode and what better way to be accountable than publicly declaring it! :sweat_smile: 
 
