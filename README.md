@@ -100,8 +100,11 @@ My goal as a full stack developer is to join a team of established developers wh
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
 ---
-🌱 **February 2023: I’m learning...**
+
+🌱 **February 2023: I’m currently learning ...**
+<p dir="auto"> 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+</p>  
 
 ## REACT ESSENTIALS - Code Institute
 
