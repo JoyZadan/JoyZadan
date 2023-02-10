@@ -9,11 +9,7 @@ Hi and thanks for visiting!
 
 I'm an ex-b2b and enterprise sales pro who's discovered a love for coding. I'm passionate about continuously learning new languages and coding methods and equally dedicated to advancing my knowledge of the languages I already know. 
 
-My goal as a full stack developer is to join a team of established developers where I can contribute to building great products whilst enjoying the development process and learning more along the way.
-
-From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry.
-**February 2023 Update:** 
-Having completed my last milestone project, I'm now continuing on with my internship (assigned to the Mineral Axis project) at <a href="https://www.linkedin.com/company/squadglobal/" alt="Squad" target="_blank" rel="noopener noreferrer">Squad</a>. Squad is a UK and UAE based technology startup, building the next generation of community-based online commerce platforms to act as a bridge between WEB2.0 and WEB3.0. They also build applications for other industry sectors, one of which is commodities where I am assigned.
+From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry. **February 2023 Update:** Having completed my last milestone project, I'm now continuing on with my internship (assigned to the Mineral Axis project) at <a href="https://www.linkedin.com/company/squadglobal/" alt="Squad" target="_blank" rel="noopener noreferrer">Squad</a>. Squad is a UK and UAE based technology startup, building the next generation of community-based online commerce platforms to act as a bridge between WEB2.0 and WEB3.0. They also build applications for other industry sectors, one of which is commodities where I am assigned.
 
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/joy-anareta-zadan/">
@@ -24,65 +20,61 @@ Having completed my last milestone project, I'm now continuing on with my intern
 </a>
 
 ## MY TECH STACK
-👌 **I have built projects using ...**
+👩‍💻 **I’m currently learning ...**
+
+<p dir="auto"> 
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+</p>
+
+
+🌳 **I’m continuing to learn ...**
+
+<p dir="auto">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
+</p>
+
+👩‍💻 **Programming Languages**
 <p dir="auto">
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img alt="Jinja" src="https://img.shields.io/badge/jinja-%23B41717?style=for-the-badge&logo=jinja" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img alt="Materialize" src="https://img.shields.io/badge/materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
-  <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
-  <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> 
-  <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
-  <img alt="Lucidchart" src="https://img.shields.io/badge/lucidchart-f96b14?logo=lucidchart&logoColor=white&style=for-the-badge" />
-  <img alt="Lucidspark" src="https://img.shields.io/badge/lucidspark-ff3d3d?logo=lucidspark&logoColor=white&style=for-the-badge" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  
-  <img alt="Vectary 3D" src="https://img.shields.io/badge/vectary%203d-7a13f7?logo=vectary&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />  
+ </p>
+ 
+ 📚 **Libraries &amp; Frameworks**
+ <p dir="auto">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769ad?logo=jquery&logoColor=white&style=for-the-badge" />
+    <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+    <img alt="Jinja" src="https://img.shields.io/badge/jinja-%23B41717?style=for-the-badge&logo=jinja" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+    <img alt="Materialize" src="https://img.shields.io/badge/materialize-ee6e73?logo=materialize&logoColor=white&style=for-the-badge" />
+    <img alt="Fontawesome" src="https://img.shields.io/badge/fontawesome-4f89d0?logo=fontawesome&logoColor=white&style=for-the-badge" />
  </p>
 
-🌱 **I’m continuing to learn ...**
+⚡ **Automated Testing**
+ <p dir="auto">
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+    <img alt="Coverage" src="https://img.shields.io/badge/coverage-2980b9?logo=coverage&logoColor=white&style=for-the-badge" />
+ </p>
 
-<p dir="auto">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
-  <img alt="Flask" src="https://img.shields.io/badge/flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img alt="Jinja" src="https://img.shields.io/badge/JINJA-%23B41717?style=for-the-badge&logo=jinja" />
-</p>
+  **Databases**
+  
 
-👩‍💻 **I’m currently learning ...**
-
-<p dir="auto"> 
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img alt="Android Emulator" src="https://img.shields.io/badge/android%20emulator-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/yaml-cc1018.svg?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
 
 👩‍💻 **For my internship, I am learning ...**
 
 <p dir="auto">
-  <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-f72c1f?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" />
-  <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
-  <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img alt="Material Design" src="https://img.shields.io/badge/material%20design-212121?logo=material%20design&logoColor=white&style=for-the-badge" />
-  <img alt="Atlassian Jira" src="https://img.shields.io/badge/atlassian%20jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+    <img alt="Laravel" src="https://img.shields.io/badge/laravel-f72c1f?logo=laravel&logoColor=white&style=for-the-badge" />
+    <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" />
+    <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+    <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+    <img alt="Material Design" src="https://img.shields.io/badge/material%20design-212121?logo=material%20design&logoColor=white&style=for-the-badge" />
+    <img alt="Atlassian Jira" src="https://img.shields.io/badge/atlassian%20jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 ---
@@ -93,7 +85,7 @@ Having completed my last milestone project, I'm now continuing on with my intern
 | MS1 | **Train in XR** ![txr-responsive](https://user-images.githubusercontent.com/91944321/178102958-8697d421-fb3e-4a35-87fe-06fef501b6ca.png) | [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
 | MS2 | **Trekkies Games** ![trekkies-responsive](https://user-images.githubusercontent.com/91944321/177550343-2382f49d-4fed-40d0-9360-f94d40e2ea29.png) | [Trekkies Games](https://github.com/JoyZadan/star-trek-voyager) is a quiz and Star Trek quote generator application with an option to share your favourite quote on Twitter.  | HTML5, CSS, JavaScript | Distinction | 
 | MS3 | **Paleo Recipes** ![paleo-recipes](https://user-images.githubusercontent.com/91944321/177551066-ad891f58-9688-43a0-a16a-bc763dd819dc.png) | [Paleo Recipes](https://github.com/JoyZadan/paleo-recipes) is a recipe sharing and management Application and is a hybrid database project. User Authentication is handled using relational-backed database (PostgreSQL using Flask+SQLAlchemy). Standard CRUD data manipulation is handled using a nonrelational-backed database (MongoDB using Flask+PyMongo).  | Python, HTML5, CSS, JavaScript, Flask+SQLAlchemy, Flask+PyMongo, Bootstrap 5, Cloudinary API, Postgres, MongoDB and Heroku  |Distinction | 
-| MS4 | **Shop K-Beauty** ![shop-kbeauty]() | [Shop K-Beauty](https://github.com/JoyZadan/shop-kbeauty) is a fictitious multi-brand, ecommerce full stack project built using Django, Python, JavaScript and Bootstrap 4. The site is deployed to Heroku, uses Amazon S3 for cloud storage and Stripe for payment processing.  Aside from its multi-brand features, the project implements a more accurate product categorization based on the results of pre-development User Research. Shop K-Beauty's product SKUs have been designed to conform with both the Stock Inventory and Pick and Pack Fulfillment best practices. The extra meta tags on specific pages of the site enables the posting of dynamically changing images and content, resulting in a more engaging social media posts that actually help deliver the intended message.   Shop K-Beauty is a business to consumer online retailer of K-Beauty skincare and hair & body products.  | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, Amazon S3, PostgreSQL and Heroku | TBD |
+| MS4 | **Shop K-Beauty** ![shop-kbeauty](https://github.com/JoyZadan/shop-kbeauty/blob/main/documentation/responsiveness/am-i-responsive-new.png) | [Shop K-Beauty](https://github.com/JoyZadan/shop-kbeauty) is a fictitious multi-brand, ecommerce full stack project built using Django, Python, JavaScript and Bootstrap 4. The site is deployed to Heroku, uses Amazon S3 for cloud storage and Stripe for payment processing.  Aside from its multi-brand features, the project implements a more accurate product categorization based on the results of pre-development User Research. Shop K-Beauty's product SKUs have been designed to conform with both the Stock Inventory and Pick and Pack Fulfillment best practices. The extra meta tags on specific pages of the site enables the posting of dynamically changing images and content, resulting in a more engaging social media posts that actually help deliver the intended message.   Shop K-Beauty is a business to consumer online retailer of K-Beauty skincare and hair & body products.  | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, Amazon S3, PostgreSQL and Heroku | TBD |
 
 ## HACKATHON PROJECTS - Organised by Code Institute and Other Participating Organizations
 | Date, Theme & Organisers | Hackathon Project Title | Description | Languages & Technologies Used | Result |
@@ -103,11 +95,18 @@ Having completed my last milestone project, I'm now continuing on with my intern
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
 ---
+## POST FINAL PROJECT SUBMISSION
+
+Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of #100DaysOfCode and what better way to be accountable than publicly declaring it! :sweat_smile: 
 
 🌱 **February 2023: I’m currently learning ...**
 <p dir="auto"> 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
 </p>  
+
+<p dir="auto">
+  <img alt="Django Rest Framework" src="https://img.shields.io/badge/DJANGO-REST-ffffff?style=for-the-badge&logo=django&logoColor=white&color=a30000&labelColor=black">
+</p>
 
 ## REACT ESSENTIALS - Code Institute
 
@@ -131,13 +130,6 @@ Having completed my last milestone project, I'm now continuing on with my intern
 ## Thanks for visiting! Before you go, here's some humor for you... 😉😁
 
 ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
-
-## Credit
-<ul>
-  <li><a href="https://shields.io/">Shields.io</a> for the badges
-  <li><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> for the GitHub stats  
-  <li><a href="https://github.com/kera-cudmore">Kera Cudmore</a> and <a href="https://github.com/alexandergrib">Alexander Grib</a> for the GitHub profile inspiration</li>
-</ul>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 <!--
@@ -171,5 +163,7 @@ Python
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+- 👌-
+
 -->
