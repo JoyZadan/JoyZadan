@@ -34,7 +34,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
-👩‍💻 **Programming Languages**
+**<>** **Programming Languages**
 <p dir="auto">
   <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
@@ -59,24 +59,52 @@ From 5th July 2022, I will start a three months internship as a full stack devel
     <img alt="Coverage" src="https://img.shields.io/badge/coverage-2980b9?logo=coverage&logoColor=white&style=for-the-badge" />
  </p>
 
-  **Databases**
-  
+🗄️ **Databases**
+  <p dir="auto">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-00618a?logo=mysql&logoColor=white&style=for-the-badge" />
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-84caec?logo=sqlite&logoColor=blue&style=for-the-badge" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+ </p>
+ 
+💻 **Version Control, IDEs and Markdown**
+ <p dir="auto">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+    <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
+    <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=#db4128" />
+    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=db4128" />
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
+ </p> 
 
-
-👩‍💻 **For my internship, I am learning ...**
-
+🏦 **Hosting**
 <p dir="auto">
-    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-    <img alt="Laravel" src="https://img.shields.io/badge/laravel-f72c1f?logo=laravel&logoColor=white&style=for-the-badge" />
-    <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-000000?logo=phpstorm&logoColor=white&style=for-the-badge" />
-    <img alt="Dart" src="https://img.shields.io/badge/dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
-    <img alt="Flutter" src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-    <img alt="Material Design" src="https://img.shields.io/badge/material%20design-212121?logo=material%20design&logoColor=white&style=for-the-badge" />
-    <img alt="Atlassian Jira" src="https://img.shields.io/badge/atlassian%20jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
+    <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
+    <img alt="SiteGround" src="https://img.shields.io/badge/siteground-8dc04a?logo=siteground&logoColor=white&style=for-the-badge" />
+    <img alt="bluehost" src="https://img.shields.io/badge/bluehost-1382ff?logo=bluehost&logoColor=white&style=for-the-badge" />
+ </p>
+ 
+ ☁️ **Cloud Storage**
+ <p dir="auto">
+    <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon_S3-ec7211?logo=aws&logoColor=white&style=for-the-badge" />
+    <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
+ </p> 
+ 
+ ⚙️ **Wireframes, Interface Design &amp; Collaborative Whiteboard**
+ <p dir="auto">
+    <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
+    <img alt="Lucidspark" src="https://img.shields.io/badge/lucidspark-ff3d3d?logo=lucidspark&logoColor=white&style=for-the-badge" />
+    <img alt="FigJam" src="https://img.shields.io/badge/figjam-f0e3ff?logo=figjam&logoColor=white&style=for-the-badge" /> 
+ </p> 
+ 
+ 🎨 **Adobe Creative Cloud**
+ <p dir="auto">
+    <img alt="InDesign" src="https://img.shields.io/badge/indesign-47021e.svg?style=for-the-badge&logo=indesign&logoColor=#ff3366" />
+    <img alt="Illustrator" src="https://img.shields.io/badge/illustrator-310000?logo=illustrator&logoColor=white&style=for-the-badge" />
+    <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
+ </p> 
+ 
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 
