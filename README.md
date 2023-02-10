@@ -101,6 +101,14 @@ My goal as a full stack developer is to join a team of established developers wh
 | April 2022, Earth Day 2022 Hackathon organised by Code Institute | [Earthlings](https://github.com/JoyZadan/Earthlings) | [Earthlings](https://earthlings-hackathon.herokuapp.com/) is a project for the Earth Day 2022 hackathon organised by Code Institute. This site is built to serve as a go-to place for tips, ideas and information on how to help save planet Earth. | Python, HTML5, CSS, JavaScript, Flask, Flask-PyMongo, dnspython, Jinja, Bootstrap 5, MongoDB, Heroku | ![Code Institute - April 2022 Hackathon 3rd Place - 2022-04-27](https://user-images.githubusercontent.com/91944321/177547814-5da9583b-ec11-4140-bc9d-6abee5a03a22.png) |
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
+## REACT ESSENTIALS - Code Institute
+
+| Module | Description | Languages & Technologies Used |
+| :---: | :---: | :---: | 
+| [Introduction to React](https://github.com/JoyZadan/introduction-to-react) | Start of React Essentials | ReactJS |
+
+
+
 ---
 ## Stats
 
