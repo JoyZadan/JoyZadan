@@ -75,16 +75,12 @@ From 5th July 2022, I will start a three months internship as a full stack devel
     <img alt="GitHub  Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /> 
     <img alt="GitPod" src="https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white" /> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_%20Studio%20Code-3583b6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=#db4128" />
-    <img alt="GitLab CI/CD" src="https://img.shields.io/badge/gitlab%20ci/cd-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=db4128" />
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />    
  </p> 
 
 🏦 **Hosting**
 <p dir="auto">
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
-    <img alt="SiteGround" src="https://img.shields.io/badge/siteground-8dc04a?logo=siteground&logoColor=white&style=for-the-badge" />
-    <img alt="bluehost" src="https://img.shields.io/badge/bluehost-1382ff?logo=bluehost&logoColor=white&style=for-the-badge" />
  </p>
  
  ☁️ **Cloud Storage**
@@ -125,7 +121,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
 | January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social | [Centered](https://github.com/JoyZadan/trustinsodaHackathon) | We want to create a culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
 ---
-## POST CODE INSTITUTE
+## POST COMPLETION OF CODE INSTITUTE'S LEVEL 5 DIPLOMA IN WEB APPLICATION DEVELOPMENT COURSE 
 
 Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of #100DaysOfCode and what better way to be accountable than publicly declaring it! :sweat_smile: 
 
@@ -138,7 +134,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
   <img alt="Django Rest Framework" src="https://img.shields.io/badge/DJANGO-REST-ffffff?style=for-the-badge&logo=django&logoColor=white&color=a30000&labelColor=black">
 </p>
 
-## REACT ESSENTIALS - Code Institute
+## REACT ESSENTIALS - Bonus Content from Code Institute 
 
 | Module | Description | Languages & Technologies Used |
 | :---: | :---: | :---: | 
