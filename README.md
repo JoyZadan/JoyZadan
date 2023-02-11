@@ -123,7 +123,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
 ---
 ## POST COMPLETION OF CODE INSTITUTE'S LEVEL 5 DIPLOMA IN WEB APPLICATION DEVELOPMENT COURSE 
 
-Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of #100DaysOfCode and what better way to be accountable than publicly declaring it! :sweat_smile: 
+Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of **#100DaysOfCode** and what better way to be accountable than publicly declaring it! :sweat_smile: 
 
 🌱 **February 2023: I’m currently learning ...**
 <p dir="auto"> 
