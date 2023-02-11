@@ -14,7 +14,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
 **February 2023 Update:** Having completed my last milestone project, I'm now continuing on with my internship (assigned to the Mineral Axis project) at <a href="https://www.linkedin.com/company/squadglobal/" alt="Squad" target="_blank" rel="noopener noreferrer">Squad</a>. Squad is a UK and UAE based technology startup, building the next generation of community-based online commerce platforms to act as a bridge between WEB2.0 and WEB3.0. They also build applications for other industry sectors, one of which is commodities where I am assigned.
 
 ## CONTACT ME
-<a href="https://www.linkedin.com/in/joy-anareta-zadan/">
+<a href="https://www.linkedin.com/in/joy-zadan/">
   <img
     alt="Linkedin" target="_blank" rel="noopener noreferrer"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
