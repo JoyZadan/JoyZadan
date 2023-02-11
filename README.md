@@ -143,6 +143,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
 | Module | Description | Languages & Technologies Used |
 | :---: | :---: | :---: | 
 | [Introduction to React](https://github.com/JoyZadan/introduction-to-react) | Start of React Essentials | ReactJS |
+| [React Essentials - Introduction to JSX](https://github.com/JoyZadan/react-core-intro-to-jsx) | Introduction to JSX | ReactJS |
 
 
 
