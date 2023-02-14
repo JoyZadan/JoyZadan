@@ -142,6 +142,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
 | [React Essentials - Introduction to JSX](https://github.com/JoyZadan/react-core-intro-to-jsx) | Introduction to JSX | ReactJS |
 | [First React App](https://github.com/JoyZadan/first-react-app) | Creating Your First react App | ReactJS | 
 | [React Components](https://github.com/JoyZadan/ci-react-core-react-components) | React Components | ReactJS | 
+| [React Challenges](https://github.com/JoyZadan/react-challenges) | React Challenges | ReactJS | 
 
 
 ---
