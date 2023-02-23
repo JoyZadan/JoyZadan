@@ -180,8 +180,6 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 
 Here are some ideas to get you started:
-- I know:
-HTML5, CSS, Bootstrap and JavaScript
 
 - 🔭 I’m currently working on ...
 a couple of JavaScript projects to help strengthen my knowledge and increase my level of competence in the language
