@@ -170,8 +170,6 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 ## PERSONAL PROJECTS: Test Driven Development/ JEST
 
-## PERSONAL PROJECTS: Learning PHP
-
 ## PERSONAL PROJECTS: Learning Flutter/Dart
 
 ## PERSONAL PROJECTS: Learning React
