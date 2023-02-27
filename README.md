@@ -190,5 +190,6 @@ Python
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 - 👌-
+- ❗- You're more than welcome to copy the code from any of my projects. But please note that if you are using it for your CI project submissions, you need to either credit the source on your README or above the code block. This is not because I want the glory, but not crediting the source of your code may result in plagiarism violation. 
 
 -->
