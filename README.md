@@ -163,6 +163,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
 <!--
+## PYTHON PROFESSIONAL - PERSONAL PROJECTS 
 
 ## PERSONAL PROJECTS:  Reinforcing my knowledge of Python
 
