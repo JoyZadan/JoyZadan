@@ -7,7 +7,7 @@
 
 Hi and thanks for visiting!
 
-I'm a highly motivated and skilled Full Stack Developer with experience in helping organizations solve complex and challenging real-world problems using innovative, web applications and tech-based solutions. 
+I'm a highly motivated and skilled Full Stack Developer with experience in helping organizations solve complex and challenging real-world problems using innovative web applications and tech-based solutions. 
 
 From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry. 
 
