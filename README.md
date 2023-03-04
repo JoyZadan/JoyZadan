@@ -163,8 +163,10 @@ Today, the 10th of February, is the day after I submitted my final project for C
 ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joyzadan&color=green&style=flat-square)
+
+
 <!--
-## PYTHON PROFESSIONAL - PERSONAL PROJECTS 
+## PYTHON PROFESSIONAL - PERSONAL PROJECTS - add tables
 
 ## PERSONAL PROJECTS:  Reinforcing my knowledge of Python
 
@@ -174,7 +176,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 ## PERSONAL PROJECTS: Learning Flutter/Dart
 
-## PERSONAL PROJECTS: Learning React
+
 
 **JoyZadan/JoyZadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
