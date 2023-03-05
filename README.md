@@ -166,9 +166,19 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 
 <!--
-## PYTHON PROFESSIONAL - PERSONAL PROJECTS - add tables
+## PYTHON FLASK PROJECTS - add tables
 
-## PERSONAL PROJECTS:  Reinforcing my knowledge of Python
+## PYTHON DJANGO PROJECTS - add tables
+
+## JS PROJECTS - add tables
+
+## REACT PROJECT(S) - add tables
+
+## FRONTEND PROJECTS - add tables
+
+## FRONTEND PROJECTS - add tables
+
+##  Reinforcing my knowledge of Python
 
 ## PERSONAL PROJECTS:  Reinforcing my knowledge of JavaScript
 
