@@ -166,6 +166,7 @@ Today, the 10th of February, is the day after I submitted my final project for C
 
 
 <!--
+edit intro
 ## PYTHON FLASK PROJECTS - add tables
 
 ## PYTHON DJANGO PROJECTS - add tables
