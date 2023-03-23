@@ -103,6 +103,9 @@ From 5th July 2022, I will start a three months internship as a full stack devel
     <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
  </p> 
  
+<!-- ---
+ ADD HERE ARTICLES LINK -->
+ 
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 **Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by South Devon College (Awarding Organisation: Gateway Qualifications) - Overall Grade: DISTINCTION** 
