@@ -105,6 +105,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
  
 <!-- ---
  ADD HERE ARTICLES LINK -->
+ ALSO ADD LINK TO DIPLOMA?
  
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
