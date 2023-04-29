@@ -91,7 +91,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
  
  ☁️☁️ **Cloud Services**
  <p dir="auto">
-    <img alt="Azure - Microsoft Cloud Services" src="https://img.shields.io/badge/Azure_Microsoft_Cloud_Services-008ad7?logo=azure&logoColor=white&style=for-the-badge" />
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-008ad7?logo=Azure&logoColor=white&style=for-the-badge" />
  </p> 
  
  ⚙️ **Wireframes, Interface Design &amp; Collaborative Whiteboard**
