@@ -89,6 +89,11 @@ From 5th July 2022, I will start a three months internship as a full stack devel
     <img alt="Cloudinary API" src="https://img.shields.io/badge/cloudinary%20api-0000FF?logo=cloudinary&logoColor=white&style=for-the-badge" /> 
  </p> 
  
+ ☁️☁️ **Cloud Services**
+ <p dir="auto">
+    <img alt="Azure - Microsoft Cloud Services" src="https://img.shields.io/badge/Azure_Microsoft_Cloud_Services-008ad7?logo=azure&logoColor=white&style=for-the-badge" />
+ </p> 
+ 
  ⚙️ **Wireframes, Interface Design &amp; Collaborative Whiteboard**
  <p dir="auto">
     <img alt="Balsamiq" src="https://img.shields.io/badge/balsamiq%20wireframes-a60000?logo=balsamiq&logoColor=white&style=for-the-badge" />
