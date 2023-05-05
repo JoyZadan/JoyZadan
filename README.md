@@ -11,7 +11,7 @@ I'm a highly motivated and skilled Full Stack Developer with experience in helpi
 
 From 5th July 2022, I will start a three months internship as a full stack developer intern (part-time). I will be joining a team of Project Manager/ Scrum Master, Technical Supervisor, Product Manager, Backend Engineer (PHP), Mobile Engineer (Flutter), Frontend Engineer (React), QA Engineer, UX Designer and Graphic Designer to build an Application for a client in the Commodities industry. 
 
-**February 2023 Update:** Having completed my last milestone project, I'm now continuing on with my internship (assigned to the Mineral Axis project) at <a href="https://www.linkedin.com/company/squadglobal/" alt="Squad" target="_blank" rel="noopener noreferrer">Squad</a>. Squad is a UK and UAE based technology startup, building the next generation of community-based online commerce platforms to act as a bridge between WEB2.0 and WEB3.0. They also build applications for other industry sectors, one of which is commodities where I am assigned.
+**February 2023 Update:** Having completed my last milestone project, I'm now continuing on with my internship (assigned to the Mineral Axis project) at <a href="https://www.linkedin.com/company/squadglobal/" alt="Squad" target="_blank" rel="noopener noreferrer">Squad</a>. Squad is a UK and UAE based technology startup, building the next generation of community-based online commerce platforms to act as a bridge between WEB2.0 and WEB3.0. Squad also develop applications for other industry sectors, one of which is commodities where I am assigned.
 
 ## CONTACT ME
 <a href="https://www.linkedin.com/in/joy-zadan/">
