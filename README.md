@@ -131,6 +131,7 @@ ALSO ADD LINK TO DIPLOMA?
 
 | Event | How I Helped | My Other Contribution | 
 | --- | --- | --- | 
+| **Code Institute's June 2023 Hackathon, themed 'Pride Representation'** | <a href="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw"></a> | <a href="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg/image"></a> |
 | **Code Institute's May 2023 Hackathon, themed 'May the fourth be with you'** | <a href="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ/image"></a> | <a href="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg/image"></a> |   
                                                                                   
 ## MY HACKATHON PROJECTS (*as one of the participants*) - Organised by Code Institute and Other Participating Organizations
