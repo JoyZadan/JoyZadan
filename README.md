@@ -117,16 +117,23 @@ ALSO ADD LINK TO DIPLOMA?
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 **Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by South Devon College (Awarding Organisation: Gateway Qualifications) - Overall Grade: DISTINCTION** 
-<!-- | Project No. | Project Title | Description | Languages & Technologies Used | Grade | -->
+
+<details>
+<summary> Overview: Software Development Projects </summary>
+  
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- | 
 |  **MILESTONE PROJECT 1: Train in XR**  <br/> ![txr-responsive](https://user-images.githubusercontent.com/91944321/178102958-8697d421-fb3e-4a35-87fe-06fef501b6ca.png) <br/> <br/> [Train in XR](https://github.com/JoyZadan/html-css-portfolio-project) is a fictional advisory and consulting firm specialising in Extended Reality (Virtual Reality and Augmented Reality) services for workforce learning and development. <br/> <br/> **FEATURES:**<br/> 1. Augmented Reality <br/> 2. CSS Flexbox and Grid <br/> 3. Fully Responsive | HTML5, CSS, Augmented Reality (Vectary) | Distinction | 
 | **MILESTONE PROJECT 2: Trekkies Games** <br/>![trekkies-responsive](https://user-images.githubusercontent.com/91944321/177550343-2382f49d-4fed-40d0-9360-f94d40e2ea29.png) <br/> <br/> [Trekkies Games](https://github.com/JoyZadan/star-trek-voyager) is a quiz and Star Trek quote generator application with an option to share your favourite quote on Twitter. <br/> <br/> **FEATURES:**<br/> 1. Quiz game <br/> 2. Quote generator and pre-populated social sharing (Twitter) <br/> 3. Fully responsive | HTML5, CSS, JavaScript | Distinction | 
 | **MILESTONE PROJECT 3: Paleo Recipes** <br/> ![paleo-recipes](https://user-images.githubusercontent.com/91944321/177551066-ad891f58-9688-43a0-a16a-bc763dd819dc.png) <br/> <br/> [Paleo Recipes](https://github.com/JoyZadan/paleo-recipes) is a recipe sharing and management Application and is a hybrid database project. User Authentication is handled using relational-backed database (PostgreSQL using Flask+SQLAlchemy). Standard CRUD data manipulation is handled using a nonrelational-backed database (MongoDB using Flask+PyMongo). <br/> <br/> **FEATURES:**<br/> 1. Use of both relational and non-relational databases <br/> 2. CRUD operations for standard users and superadmins <br/> 3. Search functionality <br/> 4. Defensive Programming <br/> 5. Personalized user dashboard <br/> 6. Cloudinary API for storing and serving images <br/> 7. Fully Responsive <br/> 8. Accessibility Checked | Python, HTML5, CSS, JavaScript, Flask+SQLAlchemy, Flask+PyMongo, Bootstrap 5, Cloudinary API, Postgres, MongoDB and Heroku  | Distinction | 
-| **MILESTONE PROJECT 4: Shop K-Beauty** <br/>![shop-kbeauty](https://github.com/JoyZadan/shop-kbeauty/blob/main/documentation/responsiveness/am-i-responsive-new.png) <br/> <br/>[Shop K-Beauty](https://github.com/JoyZadan/shop-kbeauty) is a fictitious multi-brand, e-commerce full stack project built using Django, Python, JavaScript and Bootstrap 4. The site is deployed to Heroku, uses Amazon S31.  for cloud storage and Stripe for payment processing. <br/> <br/> **FEATURES:**<br/> 1. Multi-brand products <br/> 2. Accurate product categorization <br/> 2. Product SKUs conform with Stock Inventory and Pick &amp; Pack Fulfillment best practices <br/> 3. Extra meta tags on specific pages enable the posting of dynamically changing images and content on social media <br/> 4. Defensive programming <br/> 5. Brand and product management <br/> 6. Product reviews <br/> 7. Wishlist <br/> 8. Fully Responsive <br/> 9. Accessibility Checked <br/> 10. Automated Testing | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, django-coverage, GitHub Projects, Amazon S3, PostgreSQL and Heroku | Capped at a Pass (missed original deadline as had COVID) <br/>**17 April Update: Pleasantly surprised to have received my official diploma today where my grade for this project was raised to a Merit level by Gateway Qualifications**  <br/><br/> **Assessors’ Feedback:** <br/>**On design:** *“Joy, the depth of your design choices and rationale in your application is superb. I think that if I pass this project over to our designers, they would only have suggested minor tweaks as opposed to a complete overhaul. This to me would suggest that it is certainly close to a professional grade user-interface as could be reasonably expected at this stage of your career.”* <br/><br/>**On Test Driven Development:** *“There is really an exceptional level of testing that has been documented for this application. Your automated testing again is exceptional, supported by great coverage scores.”*<br/><br/>**On documentation:** *“As mentioned before - the level of depth in your README is exceptional, and certainly justifies and rationales a clearly defined 'real-world application’”* |
+| **MILESTONE PROJECT 4: Shop K-Beauty** <br/>![shop-kbeauty](https://github.com/JoyZadan/shop-kbeauty/blob/main/documentation/responsiveness/am-i-responsive-new.png) <br/> <br/>[Shop K-Beauty](https://github.com/JoyZadan/shop-kbeauty) is a fictitious multi-brand, e-commerce full stack project built using Django, Python, JavaScript and Bootstrap 4. The site is deployed to Heroku, uses Amazon S31.  for cloud storage and Stripe for payment processing. <br/> <br/> **FEATURES:**<br/> 1. Multi-brand products <br/> 2. Accurate product categorization <br/> 2. Product SKUs conform with Stock Inventory and Pick &amp; Pack Fulfillment best practices <br/> 3. Extra meta tags on specific pages enable the posting of dynamically changing images and content on social media <br/> 4. Defensive programming <br/> 5. Brand and product management <br/> 6. Product reviews <br/> 7. Wishlist <br/> 8. Fully Responsive <br/> 9. Accessibility Checked <br/> 10. Automated Testing | Python, Django, HTML5, CSS, JavaScript, Bootstrap 4, django-coverage, GitHub Projects, Amazon S3, PostgreSQL and Heroku | Merit |
+
+</details>
 
 ---
-## HACKATHONS (*as a member of Code Institute's Hackathon Team*) 
+
+## HACKATHONS 
+### *Member of Code Institute's Hackathon Team* 
 <p>In March of 2023, I was invited to join Code Institute's Hackathon Team to help organise and facilitate upcoming hackathons. I also get the opportunity to judge the submitted projects, provided I am not one of the participants.</p>
 
 | Event | How I Helped | My Other Contribution | 
@@ -134,9 +141,12 @@ ALSO ADD LINK TO DIPLOMA?
 | **Code Institute's June 2023 Hackathon, themed 'Pride Representation'** | <a href="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw/image"></a> | <a href="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg/image"></a> |
 | **Code Institute's May 2023 Hackathon, themed 'May the fourth be with you'** | <a href="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ/image"></a> | <a href="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg"><img width="130px" height="130px" src="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg/image"></a> |   
                                                                                   
-## MY HACKATHON PROJECTS (*as one of the participants*) - Organised by Code Institute and Other Participating Organizations
-<p>I joined my first ever hackathon in January 2022 and it was an experience that helped me learn about how to work as a developer in a team environment.</p>
+### *Hackathons I participated in*
+<p>I joined my first ever hackathon in January 2022 and it was an experience that first helped me learn about how to work as a developer in a team environment.</p>
 
+<details>
+<summary>Overview: Hackathon Projects</summary>
+  
 | Description | Languages & Technologies Used | Result |
 | :--- | :---: | :---: | 
 | **April 2023, Stamp Out the Stigma: Supporting Veterans' Mental Health Hackathon organized by Soda Social and Code Institute** <br/> ![Charlie Charlie One](https://github.com/JoyZadan/Hackathon-Apr-23/blob/main/images/charlie-charlie-one-responsive.png) <br/> <br/> [Charlie Charlie One](https://github.com/TuckerFaulk/Hackathon-Apr-23) is a Peer Support Platform connecting veterans seeking mental health support with other veterans who have experienced similar challenges. To facilitate communication, support and encourage community engagement, Charlie Charlie One includes: *a matching system, a private messaging functionality, group discussions (blog) and private and public profile options for those needing anonymity*. <br/> <br> Charlee Charlee One is Team 2's Stamp Out The Stigma project submission for Code Institute and Social Soda Hackathon (April 2023).| Django, Python, JavaScript, Bootstrap 4, PostgreSQL, Heroku, Cloudinary | ![3rd Place](https://api.eu.badgr.io/public/assertions/86oYa5ZCTC6zU34paWLcwQ/image) |
@@ -146,7 +156,11 @@ ALSO ADD LINK TO DIPLOMA?
 | **April 2022, Earth Day 2022 Hackathon organised by Code Institute** <br/><br/> ![Earthlings](https://github.com/JoyZadan/Earthlings/blob/main/docs/readmeimages/earthlings-multipages.png) <br/> [Earthlings](https://github.com/JoyZadan/Earthlings) is a project for the Earth Day 2022 hackathon organised by Code Institute. This site is built to serve as a go-to place for tips, ideas and information on how to help save planet Earth. | Python, HTML5, CSS, JavaScript, Flask, Flask-PyMongo, dnspython, Jinja, Bootstrap 5, MongoDB, Heroku | ![Code Institute - April 2022 Hackathon 3rd Place - 2022-04-27](https://user-images.githubusercontent.com/91944321/177547814-5da9583b-ec11-4140-bc9d-6abee5a03a22.png) |
 | **January 2022, Accelerating the Future of Workforce Well-Being and Mindfulness organised by Code Institute and Soda Social** <br/> ![Centered](https://github.com/JoyZadan/trustinsodaHackathon/blob/main/Documentation/Wireframes/respsonsive.png) <br/><br/> [Centered](https://github.com/JoyZadan/trustinsodaHackathon) was created to help create awareness and with culture shift in companies around the world by engaging with senior leaders through our program that offers many benefits. | Django, HTML5, CSS, Python, Jinja, JQuery, Bootstrap 4, Heroku | ![Code Institute - January 2022 Hackathon Participant - 2022-02-02](https://user-images.githubusercontent.com/91944321/177553477-29172719-0ed9-4d0a-9b99-fddd9afd3f72.png) |
 
+</details>
+
 ---
+
+<!-- ---
 ## POST COMPLETION OF CODE INSTITUTE'S LEVEL 5 DIPLOMA IN WEB APPLICATION DEVELOPMENT COURSE 
 
 Today, the 10th of February, is the day after I submitted my final project for Code Institute. To keep up with the learning momentum, I am starting my first round of **#100DaysOfCode** and what better way to be accountable than publicly declaring it! :sweat_smile: 
@@ -169,14 +183,14 @@ Today, the 10th of February, is the day after I submitted my final project for C
 | [First React App](https://github.com/JoyZadan/first-react-app) | Creating Your First React App | ReactJS | 
 | [React Components](https://github.com/JoyZadan/ci-react-core-react-components) | React Components Lessons | ReactJS | 
 | [React Challenges](https://github.com/JoyZadan/react-challenges) | React Challenges | ReactJS | 
+-->
 
 
----
 ## Stats
 
 ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyzadan&theme=dark&show_icons=true)
 
-![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyzadan&theme=dark&show_icons=true)
+<!-- ![Joy Zadan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joyzadan&theme=dark&show_icons=true) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joyzadan&margin-w=60&no-frame=false)](https://github.com/joyzadan/github-profile-trophy)
 
