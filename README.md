@@ -119,7 +119,7 @@ ALSO ADD LINK TO DIPLOMA?
 **Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by South Devon College (Awarding Organisation: Gateway Qualifications) - Overall Grade: DISTINCTION** 
 
 <details>
-<summary> Overview: Software Development Projects </summary>
+<summary> ✅ Click here to view my Software Development Projects </summary>
   
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- | 
@@ -145,7 +145,7 @@ ALSO ADD LINK TO DIPLOMA?
 <p>I joined my first ever hackathon in January 2022 and it was an experience that first helped me learn about how to work as a developer in a team environment.</p>
 
 <details>
-<summary>Overview: Hackathon Projects</summary>
+<summary> ✅ Click here to view my Hackathon Projects</summary>
   
 | Description | Languages & Technologies Used | Result |
 | :--- | :---: | :---: | 
