@@ -130,7 +130,7 @@ From 5th July 2022, I will start a three months internship as a full stack devel
 ### *Member of Code Institute's Hackathon Team* 
 <p>In March of 2023, I was invited to join Code Institute's Hackathon Team to help organise and facilitate upcoming hackathons. I also get the opportunity to judge the submitted projects, provided I am not one of the participants.</p>
 
-| Event | Contribution 1 | Contribution 2 | 
+| Event |  |  | 
 | --- | :--: | :--: | 
 | **Code Institute's June 2023 Hackathon, themed 'Pride Representation'** | <a href="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/OmdjAGBnR5O6Vd_zP7hpOw/image"></a> | <a href="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/moqHkCVOQ4eeZs_nnNfjWg/image"></a> |
 | **Code Institute's May 2023 Hackathon, themed 'May the fourth be with you'** | <a href="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/3qP1B7DtSPSCYLuwCvjtjQ/image"></a> | <a href="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/0VO0hebPQn22jKq4JPOKQg/image"></a> |   
