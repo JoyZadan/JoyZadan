@@ -108,18 +108,12 @@ From 5th July 2022, I will start a three months internship as a full stack devel
     <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?logo=photoshop&logoColor=white&style=for-the-badge" /> 
  </p> 
  
-<!-- ---
- ADD HERE ARTICLES LINK 
-ALSO ADD LINK TO DIPLOMA?
--->
- 
- 
 ---
 ## MILESTONE PROJECTS - Diploma in Web Application Development, Code Institute
 **Level 5 Diploma in Web Application Development - Code Institute, Credit Rated by South Devon College (Awarding Organisation: Gateway Qualifications) - Overall Grade: DISTINCTION** 
 
 <details>
-<summary> ✅ Click here to view my Software Development Projects </summary>
+<summary><h4>✅ Click here to view my Software Development Projects</h4></summary>
   
 | Description | Languages & Technologies Used | Project Grade |
 | :--- | :---: | :--- | 
@@ -145,7 +139,7 @@ ALSO ADD LINK TO DIPLOMA?
 <p>I joined my first ever hackathon in January 2022 and it was an experience that first helped me learn about how to work as a developer in a team environment.</p>
 
 <details>
-<summary> ✅ Click here to view my Hackathon Projects</summary>
+<summary><h4>✅ Click here to view my Hackathon Projects</h4></summary>
   
 | Description | Languages & Technologies Used | Result |
 | :--- | :---: | :---: | 
